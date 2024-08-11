@@ -4,7 +4,7 @@ Hebrew & English - mother tongue.
 
 Excellent Self learning skills.
 
-## My Skiils
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,c,cs,cpp)](https://skillicons.dev)
 
