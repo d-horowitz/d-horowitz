@@ -6,7 +6,21 @@ Excellent Self learning skills.
 
 ## My Skiils
 
-[![My Skills](https://skillicons.dev/icons?i=angular,azure,bootstrap,c,cs,cpp,css,dotnet,express,firebase,git,github,gmail,html,idea,java,js,linux,materialui,mysql,nextjs,nodejs,npm,postman,pycharm,py,react,stackoverflow,ts,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,c,cs,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,bootstrap,materialui)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=express,nextjs,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,firebase)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,npm,postman,stackoverflow)](https://skillicons.dev)
 
 Best Practice & Work Experience:
 * Angular (TS)
