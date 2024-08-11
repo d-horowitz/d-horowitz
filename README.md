@@ -14,9 +14,9 @@ Excellent Self learning skills.
 
 [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,visualstudio,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure,firebase)](https://skillicons.dev)
 
