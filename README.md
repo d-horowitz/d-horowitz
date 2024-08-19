@@ -1,8 +1,6 @@
 # D. Horowitz - Software Developer
 
-Hebrew & English - mother tongue.
-
-Excellent Self learning skills.
+Software developer with expertise in full-stack development using advanced technologies. Experienced in various development platforms and IDEs. **Has well developed self-learning and problem-solving skills.** Dedicated to collaborating with dynamic teams and adept at managing tasks simultaneously to consistently deliver reliable products and services. Committed to writing clean, secure, readable, reusable, and maintainable code.
 
 ## My Skills
 
