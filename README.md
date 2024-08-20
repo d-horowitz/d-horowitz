@@ -36,7 +36,8 @@ Best Practice & Work Experience:
 #### Email: [dSoftwareDeveloper@gmail.com](mailto:dsoftwaredeveloper@gmail.com)
 
 
-## CV Links (Google Drive)
+## Resume Links (Google Drive)
+#### [English .PDF Format](https://drive.google.com/file/d/13tqKaVg_sRjV2mIyc4nLDbg6R-MXPfxT/view?usp=sharing)
 #### [Hebrew .DOCX Format](https://drive.google.com/file/d/1mjRjVmXIEnys7u_fkK9gHvRwANEZKHwN/view?usp=drive_link)
 #### [Hebrew .PDF Format](https://drive.google.com/file/d/1hPby88AIvvwuVNA8KSimO9weQCAiV4Dj/view?usp=drive_link)
 
